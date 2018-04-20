@@ -58,7 +58,7 @@ class PresentationScreen extends React.Component {
 
           <Text style={styles.sectionText}>
             Default screens for development, debugging, and alpha testing
-            are available below.
+            are available below....
           </Text>
           <View style={styles.buttonsContainer}>
             <ButtonBox onPress={this.openComponents} style={styles.componentButton} image={Images.components} text='Components' />
